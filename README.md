@@ -52,6 +52,9 @@
 <br />
 <br />
 
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 |백준 알고리즘|git hub|
 |------|------|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scg9268)](https://solved.ac/scg9268/)|![AGAPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=agape1225&show_icons=true&theme=radical)|
