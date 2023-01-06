@@ -15,45 +15,42 @@
 <br />
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=cpp, java, py, r&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,r&theme=light)](https://skillicons.dev)
 
 <br />
 
 ### Framework:
-[![My Skills](https://skillicons.dev/icons?i=django, arduino, bash, gradle, spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,arduino,bash,gradle,spring&theme=light)](https://skillicons.dev)
 
 <br />
 
 
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb, mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
 
 <br />
 
 ### Open source:
-[![My Skills](https://skillicons.dev/icons?i=linux, tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,tensorflow&theme=light)](https://skillicons.dev)
 
 <br />
 
 ### IDE:
-[![My Skills](https://skillicons.dev/icons?i=atom, eclipse, figma, idea, vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=atom,eclipse,figma,idea,vscode&theme=light)](https://skillicons.dev)
 
 <br />
 
 ### Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws, git, github, nginx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,nginx&theme=light)](https://skillicons.dev)
 
 <br />
 
 
 ### Cooperation:
-[![My Skills](https://skillicons.dev/icons?i=discord, stackoverflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,stackoverflow&theme=light)](https://skillicons.dev)
 
 <br />
 <br />
-
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 |백준 알고리즘|git hub|
 |------|------|
