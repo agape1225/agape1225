@@ -14,16 +14,40 @@
 
 <br />
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,cpp&theme=light)](https://skillicons.dev)
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=cpp, java, py, r&theme=light)](https://skillicons.dev)
+
+<br />
+
+### Framework:
+[![My Skills](https://skillicons.dev/icons?i=django, arduino, bash, gradle, spring&theme=light)](https://skillicons.dev)
+
+<br />
+
+
+### Database:
+[![My Skills](https://skillicons.dev/icons?i=mongodb, mysql&theme=light)](https://skillicons.dev)
+
+<br />
+
+### Open source:
+[![My Skills](https://skillicons.dev/icons?i=linux, tensorflow&theme=light)](https://skillicons.dev)
+
+<br />
+
+### IDE:
+[![My Skills](https://skillicons.dev/icons?i=atom, eclipse, figma, idea, vscode&theme=light)](https://skillicons.dev)
+
+<br />
+
+### Stack:
+[![My Skills](https://skillicons.dev/icons?i=aws, git, github, nginx&theme=light)](https://skillicons.dev)
+
+<br />
+
+
+### Cooperation:
+[![My Skills](https://skillicons.dev/icons?i=discord, stackoverflow&theme=light)](https://skillicons.dev)
 
 <br />
 <br />
