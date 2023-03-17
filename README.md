@@ -2,7 +2,7 @@
 ### Hi there, I'm Changgue Seoung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 부족하지만 그만큼 배우고 실천합니다 😉
-- 🌱 백앤드 개발과 서버에 관심이 많습니다 🤣
+- 🌱 백엔드 개발과 서버에 관심이 많습니다 🤣
 - 👯 돈보다는 배울 수 있는 곳에서 일하길 원합니다
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍🏀
 
