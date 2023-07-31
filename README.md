@@ -45,6 +45,6 @@
 |------|------|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scg9268)](https://solved.ac/scg9268/)|![AGAPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=agape1225&show_icons=true&theme=radical)|
 
-[website]: https://excessive-duck-5c0.notion.site/Changgyu-Seong-397c2cf5039c454db3e79365ee37a09e
+[website]: https://seoungchanggue.notion.site/Changgyu-Seong-397c2cf5039c454db3e79365ee37a09e?pvs=4
 [instagram]: https://www.instagram.com/quokka._.tori_12/
 [github]: https://github.com/agape1225
