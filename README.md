@@ -12,21 +12,6 @@
 [<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-[![My Skills](https://skillicons.dev/icons?i=gradle,spring&theme=light)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=linux,tensorflow&theme=light)](https://skillicons.dev)
-
-
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://skillicons.dev)
-
-
-[![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
-<br />
-
 |백준 알고리즘|git hub|
 |------|------|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=scg9268)](https://solved.ac/scg9268/)|![AGAPE's GitHub stats](https://github-readme-stats.vercel.app/api?username=agape1225&show_icons=true&theme=radical)|
