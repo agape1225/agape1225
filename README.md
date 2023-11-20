@@ -15,11 +15,11 @@
 <br />
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,r&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py)](https://skillicons.dev)
 
 
 ### Framework:
-[![My Skills](https://skillicons.dev/icons?i=django,arduino,bash,gradle,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gradle,spring&theme=light)](https://skillicons.dev)
 
 
 ### Database:
@@ -30,15 +30,11 @@
 
 
 ### IDE:
-[![My Skills](https://skillicons.dev/icons?i=atom,eclipse,figma,idea,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://skillicons.dev)
 
 
 ### Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,nginx&theme=light)](https://skillicons.dev)
-
-
-### Cooperation:
-[![My Skills](https://skillicons.dev/icons?i=discord,stackoverflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
 <br />
 
 |백준 알고리즘|git hub|
