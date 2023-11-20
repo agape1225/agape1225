@@ -12,7 +12,7 @@
 [<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-</br>
+</br></br>
 
 |백준 알고리즘|git hub|
 |------|------|
