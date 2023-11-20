@@ -13,27 +13,18 @@
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-### Languages:
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,py)](https://skillicons.dev)
 
-
-### Framework:
 [![My Skills](https://skillicons.dev/icons?i=gradle,spring&theme=light)](https://skillicons.dev)
 
-
-### Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
 
-### Open source:
 [![My Skills](https://skillicons.dev/icons?i=linux,tensorflow&theme=light)](https://skillicons.dev)
 
 
-### IDE:
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://skillicons.dev)
 
 
-### Stack:
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
 <br />
 
