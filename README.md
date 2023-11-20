@@ -13,7 +13,7 @@
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=gradle,spring&theme=light)](https://skillicons.dev)
 
