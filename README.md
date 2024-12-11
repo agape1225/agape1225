@@ -20,3 +20,7 @@
 [website]: https://seoungchanggue.notion.site/Changgyu-Seong-397c2cf5039c454db3e79365ee37a09e?pvs=4
 [instagram]: https://www.instagram.com/quokka._.tori_12/
 [github]: https://github.com/agape1225
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
