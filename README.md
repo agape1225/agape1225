@@ -4,12 +4,6 @@
 - 🔭 부족하지만 그만큼 배우고 실천합니다 😉
 - 🌱 백엔드 개발과 서버에 관심이 많습니다 🤣
 
-### Connect with me:
-
-[<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="vibhorchaudhary | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 </br></br>
 
 |백준 알고리즘|git hub|
